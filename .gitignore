@@ -27,6 +27,12 @@ dist/
 *.swo
 *~
 
+# MCP config (contains project ref / tokens)
+.vscode/mcp.json
+
+# Agent skills
+.agents/
+
 # OS files
 .DS_Store
 Thumbs.db
@@ -52,3 +58,4 @@ coverage/
 # Misc
 *.pem
 *.local
+/tmp/
