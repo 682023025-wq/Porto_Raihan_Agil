@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.110.0",
+    "next-cloudinary": "^6.17.5",
+    "react-dom": "^19.2.7",
+    "resend": "^6.16.0"
+  }
+}
